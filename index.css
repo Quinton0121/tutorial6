@@ -1,0 +1,17 @@
+.boxes{
+	background-color: rgb(0,0,0);
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+}
+
+#myInputs{
+	display: inline-block;
+	height: 100px;
+}
+
+.newBox{
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+}
